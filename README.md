@@ -1,4 +1,3 @@
-# Mathematical sciences
 - Arithmetic
 - Algebra
 - Geometry
