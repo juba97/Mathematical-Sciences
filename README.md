@@ -10,3 +10,4 @@
 # Cources:
 * [Khanacademy](https://en.khanacademy.org/profile/kaid_1119124483234727248154955/courses)
 * [Maths for Programmers](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1)
+* [Triangles and Pixels](https://www.youtube.com/playlist?list=PLzH6n4zXuckrPkEUK5iMQrQyvj9Z6WCrm)
