@@ -7,4 +7,4 @@
 - Discrete Analysis
 - Mathematical logic
 - Algebra
-- Group Theory
+- Graph Theory
