@@ -14,3 +14,4 @@
 
 # Tutorials:
 * [Learn how to use mathematical induction to prove a formula](https://www.youtube.com/watch?v=3QXRLlodr6w&list=LL&index=7&t=1s&ab_channel=BrianMcLogan)
+* [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc&list=LL&index=36&t=645s&ab_channel=FrameofEssence)
