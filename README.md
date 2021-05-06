@@ -9,7 +9,6 @@
 
 # Cources:
 * [Khanacademy](https://en.khanacademy.org/)
-* [Tutorialsteacher](https://www.tutorialsteacher.com/)
 * [Maths for Programmers](https://www.youtube.com/playlist?list=PLWKjhJtqVAbndUuYBE5sVViMIvyzp_dB1)
 * [Triangles and Pixels](https://www.youtube.com/playlist?list=PLzH6n4zXuckrPkEUK5iMQrQyvj9Z6WCrm)
 
